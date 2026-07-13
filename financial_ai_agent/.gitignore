@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+.cache/
+
+# Frontend build
+frontend/dist/
+frontend/.vite/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+test_apis.py
+
+# Documentation (keep only README)
+00_START_HERE.md
+API_TESTING.md
+BUILD_COMPLETE.md
+FEATURES.md
+GETTING_STARTED.md
+INDEX.md
+PROJECT_CHECKLIST.md
+PROJECT_SUMMARY.md
+QUICK_REFERENCE.md
+SETUP_GUIDE.md
+STRUCTURE.txt
+VIDEO_SCRIPT_NOTEBOOKLM.md
+GITHUB_README.md
+GITHUB_DESCRIPTION.txt
